@@ -6,6 +6,7 @@ Description: Plugin to add Sandbox Analytics to the footer of your WordPress pag
 Author: Stringcan
 Version: 1.0
 Author URI: http://stringcan.com
+*/
 
 /**
  * Prevent this file from being called directly
